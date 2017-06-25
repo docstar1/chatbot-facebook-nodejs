@@ -1,7 +1,7 @@
 module.exports = {
-    FB_PAGE_TOKEN: '',
-    FB_VERIFY_TOKEN: '',
-    API_AI_CLIENT_ACCESS_TOKEN: '',
-    FB_APP_SECRET: '',
-    SERVER_URL: "",
+    FB_PAGE_TOKEN: 'EAACw8LnpqTgBAMRgPBKHoWc9ezPONdshZCAiKvXc7qUzrHF0DkZAGtT5EskQRoiG0IayHf5QSHuZAR9gZBZCb6QZCLTrJej7B4WVgp63kZAGpKK0FwklShhNH1wSZAfZA2cBzbt9cTmF2IHZBsJ1bIwWOrZAJp2ZCVHl6SmoxpWBefCZCQRcZBsFgLCM5Oj26CCIYQIJIZD',
+    FB_VERIFY_TOKEN: 'anextraordinarystringforhealthportal7',
+    API_AI_CLIENT_ACCESS_TOKEN: 'd885dc34cb4a4e31b26f5b80726028a2',
+    FB_APP_SECRET: '89e6bc38f045469e2a92341d2680a931',
+    SERVER_URL: "https://healthportal7.herokuapp.com/",
 };
